@@ -1,0 +1,14 @@
+{
+	"appname": "Jons test",
+	"scope": "",
+	"clientid": "8358F6E7-8071-48CA-ADBC-0B31D9D4F190",
+	"buyerid": null,
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
